@@ -49,4 +49,4 @@ In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to
 * Section 4:
 ** Death Rates (Entire US) for Key County Features (Population Density, Age, Socioeconomics, Uninsured, and Race 
 
-Note: There may missing data for some California counties.
+Note: There may be missing data for some California counties.
