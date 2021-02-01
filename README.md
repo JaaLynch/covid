@@ -37,16 +37,27 @@ This gif moves through time about half as fast as the two above.  It shows the d
 In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to notebook") | [HTML](covidVisualizations.html "link to notebook") and contains:
 
 * Section 1: 
+
 &nbsp;&nbsp;&nbsp; Deaths and Death Rate (per 100k people) by State
+
 &nbsp;&nbsp;&nbsp; Total and Average Daily Cases and Deaths Over Time
+
 &nbsp;&nbsp;&nbsp; Aggregate and Region (Northeast, South, Midwest, West, Other)
+
 * Section2:
+
 &nbsp;&nbsp;&nbsp; Deep Dive on Top 10 Death Count States
+
 &nbsp;&nbsp;&nbsp; County Level Cases, Deaths, and Mobility over Time
+
 &nbsp;&nbsp;&nbsp; Death Rates for Key County Features (Population Density, Age, Socioeconomics, Uninsured, and Race 
+
 * Section 3:
+
 &nbsp;&nbsp;&nbsp; Comparison (Death Rates over Time) of States within Regions (Northeast, South, Midwest, West, Other)
+
 * Section 4:
+
 &nbsp;&nbsp;&nbsp; Death Rates (Entire US) for Key County Features (Population Density, Age, Socioeconomics, Uninsured, and Race 
 
 Note: There may be missing data for some California counties.
