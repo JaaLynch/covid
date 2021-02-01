@@ -15,13 +15,13 @@ It's no suprise that the most coronavirus deaths occur in areas with the biggest
 
 #### Total Death Rate per 100k People Over Time
 
-This visual shows death RATE, so it is more closley connected with the risk (of death by coronavirus) at various places in the US.  Many more areas of the country have been severley impacted, but their populations are low so the raw counts are not high comparitively speaking.
+This visual shows death rate (as opposed to counts above), so it is more closley connected with the risk (of death by coronavirus) at various places in the US.  Seen this way, many more areas of the country have been severley impacted but their populations are lower and thus not emphasized in the gif above.
 
 <img src="gif2/movie.gif" width="900">
 
 #### Daily Death Rate per 100k People Over Time
 
-This gif moves through time about half as the two above.  It shows the DAILY death rate, so the circles get bigger and smaller as opposed to the two above.  This graph shows the change in risk (of death by coronavirus) over time as measured by the average daily death rate.
+This gif moves through time about half as the two above.  It shows the daily death rate, so the circles get bigger and smaller as opposed to the two above.  Thus it shows the change in risk (of death by coronavirus) over time as measured by the average daily death rate.
 
 <img src="gif4/movie.gif" width="900">
 
