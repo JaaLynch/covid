@@ -1,3 +1,3 @@
 # Covid
 
-<img src="gif1/movie.gif" width="300">
+<img src="gif1/movie.gif" width="900">
