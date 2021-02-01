@@ -34,7 +34,7 @@ This gif moves through time about half as the two above.  It shows the DAILY dea
 
 ### Detailed Report
 
-In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to notebook")|[Notebook](covidVisualizations.html "link to notebook") and contains:
+In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to notebook") | [HTML](covidVisualizations.html "link to notebook") and contains:
 
 * Section 1: 
 ** Deaths and Death Rate (per 100k people) by State
