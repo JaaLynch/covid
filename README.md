@@ -21,7 +21,7 @@ This visual shows death rate (as opposed to counts above), so it is more closley
 
 #### Daily Death Rate per 100k People Over Time
 
-This gif moves through time about half as the two above.  It shows the daily death rate, so the circles get bigger and smaller as opposed to the two above.  Thus it shows the change in risk (of death by coronavirus) over time as measured by the average daily death rate.
+This gif moves through time about half as fast as the two above.  It shows the daily death rate, so the circles get bigger and smaller as opposed to the two above.  Thus it shows the change in risk (of death by coronavirus) over time as measured by the average daily death rate.
 
 <img src="gif4/movie.gif" width="900">
 
