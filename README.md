@@ -55,14 +55,14 @@ Daily Deaths per 100k People:
 <img src="gif10/movie.gif" width="900">
 
 
-#### Texas: Daily Death Rate per 100k People Over Time
+#### West: Daily Death Rate per 100k People Over Time
 
 Deaths per 100k People:
 <img src="gif11/movie.gif" width="900">
 Daily Deaths per 100k People:
 <img src="gif12/movie.gif" width="900">
 
-#### West: Daily Death Rate per 100k People Over Time
+#### Texas: Daily Death Rate per 100k People Over Time
 
 Deaths per 100k People:
 <img src="gif13/movie.gif" width="900">
