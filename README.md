@@ -27,7 +27,7 @@ This gif moves through time about half as fast as the two above.  It shows the d
 
 #### Change in mobility
 
-Google mobility data is missing for some counties, and you can see inconsistencies over time.  Red is less social distancing.
+Google mobility data is missing for some counties, and you can see inconsistencies over time.  Red is more social distancing.
 
 <img src="gif3/movie.gif" width="900">
 
