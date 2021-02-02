@@ -25,6 +25,51 @@ This gif moves through time about half as fast as the two above.  It shows the d
 
 <img src="gif4/movie.gif" width="900">
 
+#### Change in mobility
+
+Google mobility data is missing for some counties, and you can see inconsistencies over time.  Red is less social distancing.
+
+<img src="gif3/movie.gif" width="900">
+
+#### Northeast: Death Rate per 100k People Over Time
+
+Deaths per 100k People:
+<img src="gif5/movie.gif" width="900">
+Daily Deaths per 100k People:
+<img src="gif6/movie.gif" width="900">
+
+
+#### Southeast: Daily Death Rate per 100k People Over Time
+
+Deaths per 100k People:
+<img src="gif7/movie.gif" width="900">
+Daily Deaths per 100k People:
+<img src="gif8/movie.gif" width="900">
+
+
+#### Midwest: Daily Death Rate per 100k People Over Time
+
+Deaths per 100k People:
+<img src="gif9/movie.gif" width="900">
+Daily Deaths per 100k People:
+<img src="gif10/movie.gif" width="900">
+
+
+#### Texas: Daily Death Rate per 100k People Over Time
+
+Deaths per 100k People:
+<img src="gif11/movie.gif" width="900">
+Daily Deaths per 100k People:
+<img src="gif12/movie.gif" width="900">
+
+#### West: Daily Death Rate per 100k People Over Time
+
+Deaths per 100k People:
+<img src="gif13/movie.gif" width="900">
+Daily Deaths per 100k People:
+<img src="gif14/movie.gif" width="900">
+
+
 ### Sources
 
 * Amazon's coronavirus data lake
