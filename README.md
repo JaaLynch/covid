@@ -2,106 +2,40 @@
 This repository represents a significant body of work to connect the various data sources available in the amazon covid data warehouse, and use them to form insights about how the coronavirus is and has impacted the United States.
 * Caveats: Work has not been checked or peer reviewed. Do not draw conclusions from this analysis
 
-### Detailed Report
+## Detailed Report
 
-In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to notebook") | [HTML](covidVisualizations.html "link to notebook") and contains:
+In depth analysis notebook is here [Notebook](covidVisualizations.ipynb "link to notebook") | [HTML](covidVisualizations.html "link to notebook").
 
-* Section 1: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deaths and Death Rate (per 100k people) by State
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total and Average Daily Cases and Deaths Over Time
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aggregate and Region (Northeast, South, Midwest, West, Other)
-
-* Section2:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deep Dive on Top 10 Death Count States
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; County Level Cases, Deaths, and Mobility over Time
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Death Rates for Key County Features (Population Density, Age, Socioeconomics, Uninsured, and Race 
-
-* Section 3:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Comparison (Death Rates over Time) of States within Regions (Northeast, South, Midwest, West, Other)
-
-* Section 4:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Death Rates (Entire US) for Key County Features (Population Density, Age, Socioeconomics, Uninsured, and Race 
-
-Note: There may be missing data for some California counties.
-
-
-### Gifs
+## Gifs
 
 * The bigger and more red a circle gets, the higher the death count or death rate is.
 * Dates are scrolled in the title area
 
-#### Total Deaths Over Time
-
-It's no suprise that the most coronavirus deaths occur in areas with the biggest populations.  This graph gives an idea of the overall human cost or impact of the virus relative to other areas.
-
-<img src="gif1/movie.gif" width="900">
-
-#### Total Death Rate per 100k People Over Time
-
-This visual shows death rate (as opposed to counts above), so it is more closley connected with the risk (of death by coronavirus) at various places in the US.  Seen this way, many more areas of the country have been severley impacted but their populations are lower and thus not emphasized in the gif above.
-
-<img src="gif2/movie.gif" width="900">
-
-#### Daily Death Rate per 100k People Over Time
-
-This gif moves through time about half as fast as the two above.  It shows the daily death rate, so the circles get bigger and smaller as opposed to the two above.  Thus it shows the change in risk (of death by coronavirus) over time as measured by the average daily death rate.
+### Nationwide Daily Death Rate per 100k People
 
 <img src="gif4/movie.gif" width="900">
 
-#### Change in mobility
+### Northeast: Daily Death Rate per 100k People 
 
-Google mobility data is missing for some counties, and you can see inconsistencies over time.  Red is more social distancing.
-
-<img src="gif3/movie.gif" width="900">
-
-#### Northeast: Death Rate per 100k People Over Time
-
-Deaths per 100k People:
-<img src="gif5/movie.gif" width="900">
-Daily Deaths per 100k People:
 <img src="gif6/movie.gif" width="900">
 
+### Southeast: Daily Death Rate per 100k People
 
-#### Southeast: Daily Death Rate per 100k People Over Time
-
-Deaths per 100k People:
-<img src="gif7/movie.gif" width="900">
-Daily Deaths per 100k People:
 <img src="gif8/movie.gif" width="900">
 
+### Midwest: Daily Death Rate per 100k People 
 
-#### Midwest: Daily Death Rate per 100k People Over Time
-
-Deaths per 100k People:
-<img src="gif9/movie.gif" width="900">
-Daily Deaths per 100k People:
 <img src="gif10/movie.gif" width="900">
 
+### West: Daily Death Rate per 100k People 
 
-#### West: Daily Death Rate per 100k People Over Time
-
-Deaths per 100k People:
-<img src="gif11/movie.gif" width="900">
-Daily Deaths per 100k People:
 <img src="gif12/movie.gif" width="900">
 
-#### Texas: Daily Death Rate per 100k People Over Time
+### Texas: Daily Death Rate per 100k People Over Time
 
-Deaths per 100k People:
-<img src="gif13/movie.gif" width="900">
-Daily Deaths per 100k People:
 <img src="gif14/movie.gif" width="900">
 
-
-### Sources
+## Sources
 
 * Amazon's coronavirus data lake
 * Safegraph census for county level data
